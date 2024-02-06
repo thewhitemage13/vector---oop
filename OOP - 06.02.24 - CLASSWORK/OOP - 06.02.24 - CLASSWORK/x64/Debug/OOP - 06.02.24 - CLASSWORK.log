@@ -1,0 +1,9 @@
+﻿  OOP - 06.02.24 - CLASSWORK.cpp
+C:\Users\lolim\Desktop\practic\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK.cpp(19,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lolim\Desktop\practic\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK.cpp(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lolim\Desktop\practic\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK.cpp(103,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lolim\Desktop\practic\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK.cpp(134,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lolim\Desktop\practic\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK.cpp(154,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lolim\Desktop\practic\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK.cpp(183,26): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\lolim\Desktop\practic\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK\OOP - 06.02.24 - CLASSWORK.cpp(222,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OOP - 06.02.24 - CLASSWORK.vcxproj -> C:\Users\lolim\Desktop\practic\OOP - 06.02.24 - CLASSWORK\x64\Debug\OOP - 06.02.24 - CLASSWORK.exe
